@@ -27,7 +27,7 @@ Guía de cómo se realiza toda la secuencia de acciones desde que nos posicionam
    A continuación, hacemos un fetch all(para comprobar que estamos al dia) y un pull y un push(para subir y bajar los cambios)
 
    ![Captura de pantalla 2024-12-03 195649](https://github.com/user-attachments/assets/79809067-eaab-46de-a8e3-caa4edea0a8d)
-![image](https://github.com/user-attachments/assets/252de16d-e9b9-454b-83f0-beba9072d73f)
+   ![image](https://github.com/user-attachments/assets/252de16d-e9b9-454b-83f0-beba9072d73f)
 
 7) En el gh creamos una pull request.
    
